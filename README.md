@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfayudha11
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning javascript and c++
-- 📫 How to reach me alfayudha111@gmail.com
+- 🌱 I'm Still learning About Coding >//<
 
 <!---
 alfayudha11/alfayudha11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
