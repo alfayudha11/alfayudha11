@@ -1,4 +1,4 @@
-<img src="cozy.gif" width="50%">
+<img src="cozy.gif" width="50%" align ="center">
 <div align="center">
 
   
