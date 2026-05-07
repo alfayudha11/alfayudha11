@@ -1,5 +1,5 @@
 <div align="center">
-<img src="pixel.jpg" width="10%">
+<img src="cozy.gif" width="50%">
 # 🌙 Hi, I'm AlfaYudha
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Indie+Game+Developer;Frontend+Developer;UI%2FUX+Designer;I+love+cozy+games+and+anime&center=true&width=500&height=50">
