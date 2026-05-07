@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+<img src="https://id.pinterest.com/pin/911345674580198977/" width="100%">
 ## 🌸 About Me
 
 🎮 Making games with emotional storytelling  
