@@ -1,7 +1,6 @@
-<img src="cozy.gif" width="50%" align ="center">
-<div align="center">
-
-  
+<p align="center">
+  <img src="cozy.gif" width="70%">
+</p>
   🌙Hi, I'm AlfaYudha
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Indie+Game+Developer;Frontend+Developer;UI%2FUX+Designer;I+love+cozy+games+and+anime&center=true&width=500&height=50">
@@ -30,7 +29,6 @@
 ## 🌌 GitHub Stats
 
 <p align="center">
-<img src="https://id.pinterest.com/pin/911345674580198977/">
 <img src="https://streak-stats.demolab.com?user=alfayudha11&theme=tokyonight" height="180"/>
 </p>
 
