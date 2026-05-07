@@ -1,7 +1,10 @@
 <p align="center">
   <img src="cozy.gif" width="70%">
 </p>
-  🌙Hi, I'm AlfaYudha
+
+<div align="center">
+
+# 🌙 Hi, I'm AlfaYudha
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Indie+Game+Developer;Frontend+Developer;UI%2FUX+Designer;I+love+cozy+games+and+anime&center=true&width=500&height=50">
 
@@ -29,6 +32,8 @@
 ## 🌌 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alfayudha11&show_icons=true&theme=tokyonight" height="180"/>
+
 <img src="https://streak-stats.demolab.com?user=alfayudha11&theme=tokyonight" height="180"/>
 </p>
 
